@@ -2,4 +2,4 @@ function orderTotal(order) {
   return order.items.reduce((prev, curr) => prev + curr.price * (curr.quantity || 1), 0);
 }
 
-module.exports = orderTotal;
+export default orderTotal;

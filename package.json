@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Anna-Gladush/JEST-Testing-Practice#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.29.2",
     "jest": "^30.3.0"
   }
 }

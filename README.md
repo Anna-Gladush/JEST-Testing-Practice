@@ -1,11 +1,11 @@
 # JEST-Testing-Practice
 
-- script.js - practice from Fun Fun Function videos
-- main.js:
+- FunFunFunctions-Practice - practice from Fun Fun Function videos
+- main.test.js + {named files}.js:
 <ol>
-<li>[] A capitalize function that takes a string and returns it with the first character capitalized.</li>
-<li>[] A reverseString function that takes a string and returns it reversed.</li>
-<li>[] A calculator object that contains functions for the basic operations: add, subtract, divide, and multiply. Each of these functions should take two numbers and return the correct calculation.</li>
+<li>[X] A capitalize function that takes a string and returns it with the first character capitalized.</li>
+<li>[X] A reverseString function that takes a string and returns it reversed.</li>
+<li>[X] A calculator object that contains functions for the basic operations: add, subtract, divide, and multiply. Each of these functions should take two numbers and return the correct calculation.</li>
 <li>[] A caesarCipher function that takes a string and a shift factor and returns it with each character “shifted”. Read more about how a Caesar cipher works.
   <ul>
     <li>Don’t forget to test wrapping from z to a. For example, caesarCipher('xyz', 3) should return 'abc'.</li>
