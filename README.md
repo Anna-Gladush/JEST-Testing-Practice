@@ -1,5 +1,7 @@
 # JEST-Testing-Practice
 
+- script.js - practice from Fun Fun Function videos
+- main.js:
 <ol>
 <li>[] A capitalize function that takes a string and returns it with the first character capitalized.</li>
 <li>[] A reverseString function that takes a string and returns it reversed.</li>
@@ -22,6 +24,3 @@ object == {
    length: 6
 };
 ```
-
-
-
