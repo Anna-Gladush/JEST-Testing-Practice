@@ -6,14 +6,14 @@
 <li>[X] A capitalize function that takes a string and returns it with the first character capitalized.</li>
 <li>[X] A reverseString function that takes a string and returns it reversed.</li>
 <li>[X] A calculator object that contains functions for the basic operations: add, subtract, divide, and multiply. Each of these functions should take two numbers and return the correct calculation.</li>
-<li>[] A caesarCipher function that takes a string and a shift factor and returns it with each character “shifted”. Read more about how a Caesar cipher works.
+<li>[X] A caesarCipher function that takes a string and a shift factor and returns it with each character “shifted”. Read more about how a Caesar cipher works.
   <ul>
     <li>Don’t forget to test wrapping from z to a. For example, caesarCipher('xyz', 3) should return 'abc'.</li>
     <li>Don’t forget to test case preservation. The shifted lettercase should follow the original lettercase. For example, caesarCipher('HeLLo', 3) should return 'KhOOr'.</li>
     <li>Don’t forget to test punctuation. Punctuation, spaces, and other non-alphabetical characters should remain unchanged. For example, caesarCipher('Hello, World!', 3) should return 'Khoor, Zruog!'.</li>
     <li>For this one, you may want to split the final function into a few smaller functions. One concept of Testing is that you don’t need to explicitly test every function you write… Just the public ones. So in this case you only need tests for the final caesarCipher function. If it works as expected you can rest assured that your smaller helper functions are doing what they’re supposed to.</li></li>
   </ul>
-<li>[] An analyzeArray function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.</li></ol>
+<li>[X] An analyzeArray function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.</li></ol>
 
 ```
 const object = analyzeArray([1,8,3,4,2,6]);
