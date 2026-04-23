@@ -1,6 +1,7 @@
 # JEST-Testing-Practice
 
-- FunFunFunctions-Practice - practice from Fun Fun Function videos
+- FunFunFunctions-Practice - practice from <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q">Fun Fun Function</a> videos
+- mocks - practice from Jest Crash Course - Learn How to Test your JavaScript Application by <a href="https://www.youtube.com/@laitureacadamy">Laiture</a>
 - main.test.js + {named files}.js:
 <ol>
 <li>[X] A capitalize function that takes a string and returns it with the first character capitalized.</li>
